@@ -13,7 +13,7 @@ class Profile extends Component {
                 </div>
                 <div className="row m-2">
                     <div className="col-12 col-sm-3 offset-sm-2 col-md-2 offset-md-3">
-                        <img src={this.props.profile.avatarImage} className="img-fluid" alt="Avatar Image" />
+                        <img src={this.props.profile.avatarImage} className="img-fluid" alt="Avatar" />
                     </div>
                     <div className="col-12 col-sm-6 col-md-5 ml-2" >
                         <table>
